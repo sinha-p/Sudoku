@@ -1,0 +1,6 @@
+#ignore all object files
+*.o
+#ignore the binary file
+sudoku
+#others
+*.exe
